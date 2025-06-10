@@ -8,7 +8,7 @@ layout: default
 
 My doctoral research sits at the intersection of urban planning and health justice. I work with frontline communities, leading climate adaptation strategies that shape community health and well-being.
 
-My dissertation is a spatio-temporal analysis of the processes of \relocation along communities in San Juan (PR) and the embodied environmental and health experiences of relocated families. 
+My dissertation is a spatio-temporal analysis of the processes of relocation along a group of communities in San Juan (PR) and the embodied environmental and health experiences of relocated families. 
 
 Dissertation committee: Linda Shi (chair), Jamila Michener, and Alex Nading. 
 

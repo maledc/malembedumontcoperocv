@@ -12,11 +12,11 @@ My dissertation is a spatio-temporal analysis of the processes of relocation alo
 
 Dissertation committee: Linda Shi (chair), Jamila Michener, and Alex Nading. 
 
-[linkedin](https://www.linkedin.com/in/malembe-dumont/)
+[Linkedin](https://www.linkedin.com/in/malembe-dumont/)
 
 ## Contact information
 
-[email](md925@cornell.edu)
+[Email](md925@cornell.edu)
 
 ## Education
 

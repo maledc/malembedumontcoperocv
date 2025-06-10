@@ -2,122 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Malembe Dumont
 
-[Link to another page](./another-page.html).
+## About me
 
-There should be whitespace between paragraphs.
+My doctoral research sits at the intersection of urban planning and health justice. I work with frontline communities, leading climate adaptation strategies that shape community health and well-being.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My dissertation is a spatio-temporal analysis of the processes of \relocation along communities in San Juan (PR) and the embodied environmental and health experiences of relocated families. 
 
-# Header 1
+Dissertation committee: Linda Shi (chair), Jamila Michener, and Alex Nading. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[linkedin](https://www.linkedin.com/in/malembe-dumont/)
 
-## Header 2
+## Contact information
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[email](md925@cornell.edu)
 
-### Header 3
+## Education
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- 2022 to present, PhD in City and Regional Planning, Cornell University, Department of City and Regional Planning
+- 2021, Master of City and Regional Planning (MCRP), Rutgers University, Edward J. Bloustein School of Planning and Public Policy
+- 2019, Master of International Sustainable Development, Universidad Politécnica de Madrid & Universidad Complutense de Madrid
+- 2017, Bachelor of Political Science and Public Administration, Universidad Autónoma de Madrid (Valedictorian)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Conference organizing 
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+2025, Roundtable Climate Change and Health: Planning Reflections In a Polarized Era, ACSP conference. 
+2024, Cornell Center for Health Equity Symposium, Advancing Health Justice: Policy, Practice and Engagement, and panel Climate Health-Justice and Power. 
+2024, Latin American and Caribbean program annual symposium at Cornell "Resiliencia desde América Latina y el Caribe: Crisis, Resistance and Adaptation. 
+2023, Symposium [Land Justice, Resistance and Community Solidarities](https://events.cornell.edu/event/land_justice_resistance_and_community_solidarities_in_puerto_rico), as a Latin American and Caribbean program graduate fellow.
 
 
-### Definition lists can be used with HTML syntax.
+"To be a rainbow in someone else's cloud", Dr.Maya Angelou
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## My links

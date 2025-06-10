@@ -25,13 +25,16 @@ Dissertation committee: Linda Shi (chair), Jamila Michener, and Alex Nading.
 - 2019, Master of International Sustainable Development, Universidad Politécnica de Madrid & Universidad Complutense de Madrid
 - 2017, Bachelor of Political Science and Public Administration, Universidad Autónoma de Madrid (Valedictorian)
 
-## Conference organizing 
+## Events organized 
 
-- 2025, Roundtable "Climate Change and Health: Planning Reflections In a Polarized Era", ACSP conference. 
-- 2024, Cornell Center for Health Equity Symposium "Advancing Health Justice: Policy, Practice and Engagement", and panel "Climate Health-Justice and Power". 
-- 2024, Latin American and Caribbean program annual symposium at Cornell "Resiliencia desde América Latina y el Caribe: Crisis, Resistance and Adaptation". 
+- 2024, Cornell Center for Health Equity Symposium "Advancing Health Justice: Policy, Practice and Engagement".  
+- 2024, Latin American and Caribbean program - Cornell annual symposium "Resiliencia desde América Latina y el Caribe: Crisis, Resistance and Adaptation". 
 - 2023, Symposium [Land Justice, Resistance and Community Solidarities](https://events.cornell.edu/event/land_justice_resistance_and_community_solidarities_in_puerto_rico), as a Latin American and Caribbean program graduate fellow.
 
+## Panels organized 
+- 2025, roundtable "Climate Change and Health: Planning Reflections In a Polarized Era", ACSP conference.
+- 2024, panel "Climate Health-Justice and Power", Latin American and Caribbean program - Cornell annual symposium.
+- 2023, Roundtable: Barriers as high as seawalls: contextual and regulatory challenges, ACSP conference. 
 
 "To be a rainbow in someone else's cloud", Dr.Maya Angelou
 

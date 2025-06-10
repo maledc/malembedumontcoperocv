@@ -27,10 +27,10 @@ Dissertation committee: Linda Shi (chair), Jamila Michener, and Alex Nading.
 
 ## Conference organizing 
 
-2025, Roundtable Climate Change and Health: Planning Reflections In a Polarized Era, ACSP conference. 
-2024, Cornell Center for Health Equity Symposium, Advancing Health Justice: Policy, Practice and Engagement, and panel Climate Health-Justice and Power. 
-2024, Latin American and Caribbean program annual symposium at Cornell "Resiliencia desde América Latina y el Caribe: Crisis, Resistance and Adaptation. 
-2023, Symposium [Land Justice, Resistance and Community Solidarities](https://events.cornell.edu/event/land_justice_resistance_and_community_solidarities_in_puerto_rico), as a Latin American and Caribbean program graduate fellow.
+- 2025, Roundtable Climate Change and Health: Planning Reflections In a Polarized Era, ACSP conference. 
+- 2024, Cornell Center for Health Equity Symposium, Advancing Health Justice: Policy, Practice and Engagement, and panel Climate Health-Justice and Power. 
+- 2024, Latin American and Caribbean program annual symposium at Cornell "Resiliencia desde América Latina y el Caribe: Crisis, Resistance and Adaptation. 
+- 2023, Symposium [Land Justice, Resistance and Community Solidarities](https://events.cornell.edu/event/land_justice_resistance_and_community_solidarities_in_puerto_rico), as a Latin American and Caribbean program graduate fellow.
 
 
 "To be a rainbow in someone else's cloud", Dr.Maya Angelou
